@@ -1,6 +1,6 @@
 # Hashstream
 
-## Problem description
+## Problem
 ![alt text](sha256.png)
 
 ## Requirements
